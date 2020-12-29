@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # laravel-promocodes
 
 [![Packagist](https://img.shields.io/packagist/v/zgabievi/promocodes.svg)](https://packagist.org/packages/zgabievi/promocodes)
@@ -264,3 +265,6 @@ Finally it's here. I've written some test to keep this package healthy and stabl
 ## License
 
 laravel-promocodes is licensed under a [MIT License](https://github.com/zgabievi/laravel-promocodes/blob/master/LICENSE).
+=======
+# promocodes
+>>>>>>> dev-master
